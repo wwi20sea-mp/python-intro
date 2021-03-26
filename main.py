@@ -3,3 +3,5 @@
 #import einfacheBeispiele
 #import schleifen
 #from funktionen import foo
+
+import aufgaben
